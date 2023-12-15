@@ -1,0 +1,140 @@
+.bgBody {
+    background-color: #F6F9FE;
+}
+
+
+.imgWalailak {
+    width: 80px;
+}
+
+h1 {
+    iconify-icon {
+        font-size: 80px;
+    }
+
+}
+
+.temp {
+    color: #ff9430;
+}
+
+.Humid {
+    color: #21A9FF;
+}
+
+.HeatIndex {
+    color: #249c3e;
+}
+
+.PM25 {
+
+    color: #ff2146;
+}
+
+.PM10 {
+    color: #e081fd;
+}
+
+
+
+
+.navbar-brand {
+    font-weight: bolder;
+    color: #707070;
+
+    span {
+        color: #21A9FF;
+    }
+
+}
+
+
+#navbarNav {
+    margin-right: 15%;
+}
+
+
+#container-Temp {
+    .card {
+        box-shadow: 0 1rem 2rem hsla(0, 0%, 33%, 0.15);
+    }
+}
+
+#container-Humid {
+    .card {
+        box-shadow: 0 1rem 2rem hsla(0, 0%, 33%, 0.15);
+    }
+}
+
+#container-HeatIndex {
+    .card {
+        box-shadow: 0 1rem 2rem hsla(0, 0%, 33%, 0.15);
+    }
+}
+
+#container-PM25 {
+    .card {
+        box-shadow: 0 1rem 2rem hsla(0, 0%, 33%, 0.15);
+    }
+}
+
+#container-PM10 {
+    .card {
+        box-shadow: 0 1rem 2rem hsla(0, 0%, 33%, 0.15);
+    }
+}
+
+
+.card-body {
+    #display-Humid {
+        font-size: 3rem;
+    }
+
+    #display-Temp {
+        font-size: 3rem;
+    }
+
+    #display-HeatIndex {
+        font-size: 3rem;
+    }
+
+    #display-PM25 {
+        font-size: 3rem;
+    }
+
+    #display-PM10 {
+        font-size: 3rem;
+    }
+
+}
+
+
+.Quality {
+    p{
+        color: #21A9FF;
+        font-size: 5rem;
+    }
+    #QualityStatus{
+        font-size: 3rem;
+    }
+    
+
+}
+
+.background {
+    width: 100%;
+    height: 55vh;
+    background-color: #21A9FF;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+}
+
+.main{
+    top: -25%;
+    position: relative;
+}
+
+
+.containerMain{
+    margin-top: 10%;
+}
