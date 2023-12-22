@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500&display=swap');
+
+* {
+    font-family: 'kanit';
+}
+
 .bgBody {
     background-color: #F6F9FE;
 }
@@ -165,6 +171,10 @@ h1 {
 }
 
 .fontProduct {
+    h1 {
+        margin-bottom: 0;
+    }
+
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
@@ -213,4 +223,12 @@ h1 {
 .row {
     display: flex;
     align-items: center;
+}
+
+#cirlePM10 {
+    margin-top: 80px;
+}
+
+#cirlePM25 {
+    margin-top: 80px;
 }

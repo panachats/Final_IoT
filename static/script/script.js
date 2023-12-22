@@ -1,4 +1,4 @@
-const url = 'http://192.168.0.178:80';
+const url = 'http://192.168.0.178:5000/nodemcu/last';
 const displayTemp = document.getElementById('display-Temp');
 const displayHumid = document.getElementById('display-Humid');
 const displayHeatIndex = document.getElementById('display-HeatIndex');
@@ -10,7 +10,7 @@ const cirlePM25 = document.getElementById('cirlePM25');
 const cirlePM10 = document.getElementById('cirlePM10');
 
 function fetchData() {
-    return fetch(`${url}/ESP8266`)
+    return fetch(url)
         .then(response => response.json())
         .then(data => {
             if (data && data.length > 0) {
