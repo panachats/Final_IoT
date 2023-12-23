@@ -1,5 +1,27 @@
-from flask import Flask, jsonify, render_template
+from flask import Flask, render_template
 import requests
+from paho.mqtt import client as mqtt_client
+
+
+broker = "192.168.0.178"
+port = 1883
+
+
+def connect_mqtt():
+    def on_connect(client, userdata, flags, rc):
+        if rc == 0:
+            print("Connected to MQTT Broker!")
+        else:
+            print("Failed to connect, return code %d\n", rc)
+
+    client = mqtt_client.Client("server")
+    client.on_connect = on_connect
+    client.connect(broker, port)
+    return client
+
+
+
+
 app = Flask(__name__)
 server_ip = "http://192.168.0.178:80"
 @app.route("/")
@@ -17,5 +39,16 @@ def nodemcu():
     else:
         print("error Unable to fetch data")
 
+
+@app.route('/nodemcu/Buzz/<numericStatus>')
+def send_buzzer_status(numericStatus):
+    client.publish('Buzzer', numericStatus)
+    client.loop()
+    
+    return f'Buzzer status set to: {numericStatus}'
+
+
+
 if __name__ == "__main__":
+    client = connect_mqtt()
     app.run(host='0.0.0.0', debug=True)
