@@ -81899,6 +81899,7386 @@
       "PM10": 5.599999905,
       "timestamp": "22-12-2023 10:44:46",
       "id": 9100
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 94,
+      "HeatIndex": 24.46999931,
+      "PM25": 6.400000095,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:53:06",
+      "id": 9101
+    },
+    {
+      "Temp": 23,
+      "Humid": 94,
+      "HeatIndex": 23.80999947,
+      "PM25": 6.199999809,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:53:14",
+      "id": 9102
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 94,
+      "HeatIndex": 23.70000076,
+      "PM25": 6.199999809,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:53:19",
+      "id": 9103
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 94,
+      "HeatIndex": 23.92000008,
+      "PM25": 6.5,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:53:24",
+      "id": 9104
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 94,
+      "HeatIndex": 25.23999977,
+      "PM25": 6.800000191,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:53:30",
+      "id": 9105
+    },
+    {
+      "Temp": 22.60000038,
+      "Humid": 95,
+      "HeatIndex": 23.39999962,
+      "PM25": 6.800000191,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:53:38",
+      "id": 9106
+    },
+    {
+      "Temp": 25.39999962,
+      "Humid": 95,
+      "HeatIndex": 26.55999947,
+      "PM25": 7,
+      "PM10": 9.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:53:43",
+      "id": 9107
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.5,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:53:54",
+      "id": 9108
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.400000095,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:01",
+      "id": 9109
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 6.099999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:08",
+      "id": 9110
+    },
+    {
+      "Temp": 25.39999962,
+      "Humid": 95,
+      "HeatIndex": 26.55999947,
+      "PM25": 6,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:12",
+      "id": 9111
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 94,
+      "HeatIndex": 26.04000092,
+      "PM25": 6,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:19",
+      "id": 9112
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 6.199999809,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:26",
+      "id": 9113
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 6.099999905,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:30",
+      "id": 9114
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 6.300000191,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:37",
+      "id": 9115
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 6.300000191,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:44",
+      "id": 9116
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 6.199999809,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:49",
+      "id": 9117
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 6.199999809,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:54:56",
+      "id": 9118
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 6.300000191,
+      "PM10": 10.30000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:09",
+      "id": 9119
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 6.099999905,
+      "PM10": 10.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:13",
+      "id": 9120
+    },
+    {
+      "Temp": 25.39999962,
+      "Humid": 95,
+      "HeatIndex": 26.55999947,
+      "PM25": 6.300000191,
+      "PM10": 10.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:20",
+      "id": 9121
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 6.599999905,
+      "PM10": 10,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:27",
+      "id": 9122
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.599999905,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:31",
+      "id": 9123
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 6.599999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:38",
+      "id": 9124
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.400000095,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:45",
+      "id": 9125
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.199999809,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:49",
+      "id": 9126
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 6.099999905,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:55:56",
+      "id": 9127
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 6.099999905,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:03",
+      "id": 9128
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 6.199999809,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:07",
+      "id": 9129
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 6.400000095,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:14",
+      "id": 9130
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 6.5,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:21",
+      "id": 9131
+    },
+    {
+      "Temp": 25.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.77000046,
+      "PM25": 6.599999905,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:25",
+      "id": 9132
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.400000095,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:32",
+      "id": 9133
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.400000095,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:39",
+      "id": 9134
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.300000191,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:43",
+      "id": 9135
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.5,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:51",
+      "id": 9136
+    },
+    {
+      "Temp": 25.5,
+      "Humid": 95,
+      "HeatIndex": 26.82999992,
+      "PM25": 6.400000095,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:56:58",
+      "id": 9137
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.599999905,
+      "PM10": 10.30000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:02",
+      "id": 9138
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 6.5,
+      "PM10": 10.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:09",
+      "id": 9139
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.400000095,
+      "PM10": 10.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:16",
+      "id": 9140
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 94,
+      "HeatIndex": 25.89999962,
+      "PM25": 6.199999809,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:20",
+      "id": 9141
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 6.199999809,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:27",
+      "id": 9142
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 6.199999809,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:34",
+      "id": 9143
+    },
+    {
+      "Temp": 25.60000038,
+      "Humid": 95,
+      "HeatIndex": 27.10000038,
+      "PM25": 6.400000095,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:38",
+      "id": 9144
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.300000191,
+      "PM10": 10,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:45",
+      "id": 9145
+    },
+    {
+      "Temp": 23,
+      "Humid": 94,
+      "HeatIndex": 23.80999947,
+      "PM25": 6.300000191,
+      "PM10": 9.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:53",
+      "id": 9146
+    },
+    {
+      "Temp": 25.39999962,
+      "Humid": 94,
+      "HeatIndex": 26.55999947,
+      "PM25": 6.300000191,
+      "PM10": 10,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:57:57",
+      "id": 9147
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.300000191,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:08",
+      "id": 9148
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.099999905,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:12",
+      "id": 9149
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.300000191,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:16",
+      "id": 9150
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 6.199999809,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:20",
+      "id": 9151
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 6.099999905,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:27",
+      "id": 9152
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.099999905,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:34",
+      "id": 9153
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.099999905,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:38",
+      "id": 9154
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.099999905,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:45",
+      "id": 9155
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 6.099999905,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:52",
+      "id": 9156
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 95,
+      "HeatIndex": 26.03000069,
+      "PM25": 6.199999809,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:58:56",
+      "id": 9157
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.300000191,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:59:03",
+      "id": 9158
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.199999809,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:59:12",
+      "id": 9159
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.199999809,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:59:16",
+      "id": 9160
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 6.199999809,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:59:23",
+      "id": 9161
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.199999809,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:59:30",
+      "id": 9162
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 6,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:59:34",
+      "id": 9163
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 95,
+      "HeatIndex": 26.03000069,
+      "PM25": 6,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 18:59:41",
+      "id": 9164
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 6.099999905,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:03",
+      "id": 9165
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.099999905,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:07",
+      "id": 9166
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 6.199999809,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:11",
+      "id": 9167
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 95,
+      "HeatIndex": 26.03000069,
+      "PM25": 6.199999809,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:15",
+      "id": 9168
+    },
+    {
+      "Temp": 25,
+      "Humid": 95,
+      "HeatIndex": 26.04000092,
+      "PM25": 6.199999809,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:19",
+      "id": 9169
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.5,
+      "PM10": 10.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:26",
+      "id": 9170
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.599999905,
+      "PM10": 10.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:30",
+      "id": 9171
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.5,
+      "PM10": 10.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:37",
+      "id": 9172
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.400000095,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:44",
+      "id": 9173
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.400000095,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:48",
+      "id": 9174
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.300000191,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:00:55",
+      "id": 9175
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 6.300000191,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:02",
+      "id": 9176
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 6.199999809,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:06",
+      "id": 9177
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.199999809,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:14",
+      "id": 9178
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 5.900000095,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:21",
+      "id": 9179
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 95,
+      "HeatIndex": 26.03000069,
+      "PM25": 5.800000191,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:25",
+      "id": 9180
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:32",
+      "id": 9181
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 5.900000095,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:39",
+      "id": 9182
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.400000095,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:43",
+      "id": 9183
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.5,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:50",
+      "id": 9184
+    },
+    {
+      "Temp": 25.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.77000046,
+      "PM25": 6.400000095,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:01:57",
+      "id": 9185
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.099999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:01",
+      "id": 9186
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.199999809,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:08",
+      "id": 9187
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:15",
+      "id": 9188
+    },
+    {
+      "Temp": 25.29999924,
+      "Humid": 95,
+      "HeatIndex": 26.29000092,
+      "PM25": 6.099999905,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:19",
+      "id": 9189
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.099999905,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:27",
+      "id": 9190
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.199999809,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:34",
+      "id": 9191
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.199999809,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:38",
+      "id": 9192
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 6.199999809,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:45",
+      "id": 9193
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:52",
+      "id": 9194
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:02:56",
+      "id": 9195
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.099999905,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:03",
+      "id": 9196
+    },
+    {
+      "Temp": 25.29999924,
+      "Humid": 95,
+      "HeatIndex": 26.29000092,
+      "PM25": 6,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:10",
+      "id": 9197
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 5.900000095,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:14",
+      "id": 9198
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 5.900000095,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:21",
+      "id": 9199
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 6.099999905,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:29",
+      "id": 9200
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.099999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:33",
+      "id": 9201
+    },
+    {
+      "Temp": 25.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.77000046,
+      "PM25": 6.199999809,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:40",
+      "id": 9202
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.099999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:44",
+      "id": 9203
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.199999809,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:51",
+      "id": 9204
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:03:58",
+      "id": 9205
+    },
+    {
+      "Temp": 25.29999924,
+      "Humid": 95,
+      "HeatIndex": 26.29000092,
+      "PM25": 6,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:02",
+      "id": 9206
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:09",
+      "id": 9207
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.099999905,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:16",
+      "id": 9208
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.199999809,
+      "PM10": 10,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:20",
+      "id": 9209
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.5,
+      "PM10": 10.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:27",
+      "id": 9210
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.699999809,
+      "PM10": 11.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:35",
+      "id": 9211
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 6.699999809,
+      "PM10": 10.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:39",
+      "id": 9212
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 6.5,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:46",
+      "id": 9213
+    },
+    {
+      "Temp": 25,
+      "Humid": 95,
+      "HeatIndex": 26.04000092,
+      "PM25": 6.199999809,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:53",
+      "id": 9214
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:04:57",
+      "id": 9215
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 5.800000191,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:04",
+      "id": 9216
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 6,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:11",
+      "id": 9217
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 6.199999809,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:15",
+      "id": 9218
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 6.199999809,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:22",
+      "id": 9219
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:29",
+      "id": 9220
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 5.900000095,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:33",
+      "id": 9221
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.800000191,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:41",
+      "id": 9222
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 5.800000191,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:48",
+      "id": 9223
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:52",
+      "id": 9224
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.099999905,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:05:59",
+      "id": 9225
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.199999809,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:06:06",
+      "id": 9226
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 405.2000122,
+      "PM10": 756.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:06:28",
+      "id": 9227
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 438,
+      "PM10": 736.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:06:51",
+      "id": 9228
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 168.6999969,
+      "PM10": 242.0015411,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:07:01",
+      "id": 9229
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 25.10000038,
+      "PM10": 32.00038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:07:11",
+      "id": 9230
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 18.79999924,
+      "PM10": 24.79999924,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:07:24",
+      "id": 9231
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 408.3999939,
+      "PM10": 632.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:08:52",
+      "id": 9232
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 110.4000015,
+      "PM10": 135.0015411,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:09:02",
+      "id": 9233
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 48.90000153,
+      "PM10": 64.00077057,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:09:12",
+      "id": 9234
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 33.20000076,
+      "PM10": 42.50038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:09:25",
+      "id": 9235
+    },
+    {
+      "Temp": 25,
+      "Humid": 95,
+      "HeatIndex": 26.04000092,
+      "PM25": 24,
+      "PM10": 30.89999962,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:09:35",
+      "id": 9236
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 17.89999962,
+      "PM10": 24,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:09:45",
+      "id": 9237
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 13.10000038,
+      "PM10": 19,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:09:59",
+      "id": 9238
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 10.60000038,
+      "PM10": 17.20000076,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:03",
+      "id": 9239
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 9.899999619,
+      "PM10": 15.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:10",
+      "id": 9240
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 9.199999809,
+      "PM10": 14.30000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:17",
+      "id": 9241
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 9,
+      "PM10": 13.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:25",
+      "id": 9242
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 8.800000191,
+      "PM10": 13.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:29",
+      "id": 9243
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 8.399999619,
+      "PM10": 13.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:33",
+      "id": 9244
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 8.300000191,
+      "PM10": 12.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:40",
+      "id": 9245
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 8,
+      "PM10": 12.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:47",
+      "id": 9246
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 7.800000191,
+      "PM10": 12.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:51",
+      "id": 9247
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 7.300000191,
+      "PM10": 11.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:10:58",
+      "id": 9248
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 7.300000191,
+      "PM10": 10.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:05",
+      "id": 9249
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 7.5,
+      "PM10": 11.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:09",
+      "id": 9250
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 7.699999809,
+      "PM10": 12,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:16",
+      "id": 9251
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 7.599999905,
+      "PM10": 12.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:24",
+      "id": 9252
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 7.599999905,
+      "PM10": 11.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:28",
+      "id": 9253
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 7.599999905,
+      "PM10": 11.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:35",
+      "id": 9254
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 7.300000191,
+      "PM10": 11.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:42",
+      "id": 9255
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 7,
+      "PM10": 11,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:46",
+      "id": 9256
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.800000191,
+      "PM10": 10.30000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:11:53",
+      "id": 9257
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 7,
+      "PM10": 10.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:12:00",
+      "id": 9258
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.800000191,
+      "PM10": 10.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:12:04",
+      "id": 9259
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.800000191,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:12:11",
+      "id": 9260
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 6.699999809,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:12:18",
+      "id": 9261
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.900000095,
+      "PM10": 10,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:12:22",
+      "id": 9262
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 6.699999809,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:12:34",
+      "id": 9263
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.900000095,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:12:38",
+      "id": 9264
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 35,
+      "PM10": 90.50077057,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:12:48",
+      "id": 9265
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 375.2000122,
+      "PM10": 688.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:12:58",
+      "id": 9266
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 551.2000122,
+      "PM10": 912.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:13:08",
+      "id": 9267
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 712.4000244,
+      "PM10": 912.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:13:21",
+      "id": 9268
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 721.5999756,
+      "PM10": 804.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:13:31",
+      "id": 9269
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 568.7000122,
+      "PM10": 624.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:13:41",
+      "id": 9270
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 329.6000061,
+      "PM10": 362.0030823,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:13:54",
+      "id": 9271
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 109.1999969,
+      "PM10": 121.5007706,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:14:04",
+      "id": 9272
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 63,
+      "PM10": 70.00077057,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:14:14",
+      "id": 9273
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 38.79999924,
+      "PM10": 43.50038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:14:27",
+      "id": 9274
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 39.5,
+      "PM10": 44.00038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:14:37",
+      "id": 9275
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 38.70000076,
+      "PM10": 43.00038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:14:48",
+      "id": 9276
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 31.20000076,
+      "PM10": 34.75038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:14:58",
+      "id": 9277
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 282.7000122,
+      "PM10": 592.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:15:11",
+      "id": 9278
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 875.7000122,
+      "PM10": 1392.012329,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:15:33",
+      "id": 9279
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 551.9000244,
+      "PM10": 704.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:15:43",
+      "id": 9280
+    },
+    {
+      "Temp": 25,
+      "Humid": 95,
+      "HeatIndex": 26.04000092,
+      "PM25": 158.8000031,
+      "PM10": 173.0015411,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:15:54",
+      "id": 9281
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 53.79999924,
+      "PM10": 59.00038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:16:07",
+      "id": 9282
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 30.89999962,
+      "PM10": 34.00038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:16:17",
+      "id": 9283
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 28.70000076,
+      "PM10": 31.87519264,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:16:27",
+      "id": 9284
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 26.70000076,
+      "PM10": 29.87519264,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:16:40",
+      "id": 9285
+    },
+    {
+      "Temp": 25,
+      "Humid": 95,
+      "HeatIndex": 26.04000092,
+      "PM25": 18.70000076,
+      "PM10": 22.70000076,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:16:50",
+      "id": 9286
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 15.30000019,
+      "PM10": 19.5,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:17:00",
+      "id": 9287
+    },
+    {
+      "Temp": 25,
+      "Humid": 95,
+      "HeatIndex": 26.04000092,
+      "PM25": 12.89999962,
+      "PM10": 17.60000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:17:13",
+      "id": 9288
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 11.5,
+      "PM10": 17.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:17:17",
+      "id": 9289
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 11.10000038,
+      "PM10": 17.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:17:24",
+      "id": 9290
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 11.10000038,
+      "PM10": 19.70000076,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:17:31",
+      "id": 9291
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 11.39999962,
+      "PM10": 19.20000076,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:17:35",
+      "id": 9292
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 11,
+      "PM10": 17.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:17:42",
+      "id": 9293
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 11,
+      "PM10": 17.70000076,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:17:49",
+      "id": 9294
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 11.10000038,
+      "PM10": 18.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:17:53",
+      "id": 9295
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 10.89999962,
+      "PM10": 18.79999924,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:01",
+      "id": 9296
+    },
+    {
+      "Temp": 25.70000076,
+      "Humid": 95,
+      "HeatIndex": 27.37999916,
+      "PM25": 10.80000019,
+      "PM10": 19.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:08",
+      "id": 9297
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 10.69999981,
+      "PM10": 20.20000076,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:12",
+      "id": 9298
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 10.80000019,
+      "PM10": 20,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:19",
+      "id": 9299
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 10.80000019,
+      "PM10": 19.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:26",
+      "id": 9300
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 10.5,
+      "PM10": 17.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:33",
+      "id": 9301
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 9.899999619,
+      "PM10": 15.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:37",
+      "id": 9302
+    },
+    {
+      "Temp": 25.60000038,
+      "Humid": 95,
+      "HeatIndex": 27.10000038,
+      "PM25": 9.600000381,
+      "PM10": 14.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:44",
+      "id": 9303
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 9.300000191,
+      "PM10": 13.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:48",
+      "id": 9304
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 8.699999809,
+      "PM10": 12,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:18:55",
+      "id": 9305
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 8.899999619,
+      "PM10": 12.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:19:09",
+      "id": 9306
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 95,
+      "HeatIndex": 26.03000069,
+      "PM25": 8.899999619,
+      "PM10": 12.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:19:13",
+      "id": 9307
+    },
+    {
+      "Temp": 25,
+      "Humid": 95,
+      "HeatIndex": 26.04000092,
+      "PM25": 8.899999619,
+      "PM10": 13.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:19:17",
+      "id": 9308
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 9.100000381,
+      "PM10": 13.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:19:21",
+      "id": 9309
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 9.199999809,
+      "PM10": 15.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:19:25",
+      "id": 9310
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 8.600000381,
+      "PM10": 14.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:19:32",
+      "id": 9311
+    },
+    {
+      "Temp": 28.10000038,
+      "Humid": 94,
+      "HeatIndex": 35.25999832,
+      "PM25": 8.399999619,
+      "PM10": 15.19999981,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:19:42",
+      "id": 9312
+    },
+    {
+      "Temp": 31.10000038,
+      "Humid": 85,
+      "HeatIndex": 43.08000183,
+      "PM25": 8.399999619,
+      "PM10": 20.12519264,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:19:56",
+      "id": 9313
+    },
+    {
+      "Temp": 44.70000076,
+      "Humid": 48,
+      "HeatIndex": 69.90000153,
+      "PM25": 8.5,
+      "PM10": 21.37519264,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:20:06",
+      "id": 9314
+    },
+    {
+      "Temp": 50.70000076,
+      "Humid": 33,
+      "HeatIndex": 73.73000336,
+      "PM25": 8.699999809,
+      "PM10": 20.50019264,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:20:16",
+      "id": 9315
+    },
+    {
+      "Temp": 49.40000153,
+      "Humid": 39,
+      "HeatIndex": 77.20999908,
+      "PM25": 7.699999809,
+      "PM10": 13.06259632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:20:26",
+      "id": 9316
+    },
+    {
+      "Temp": 47.5,
+      "Humid": 35,
+      "HeatIndex": 65.76999664,
+      "PM25": 7.5,
+      "PM10": 11.06259632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:20:39",
+      "id": 9317
+    },
+    {
+      "Temp": 44.90000153,
+      "Humid": 36,
+      "HeatIndex": 58.84999847,
+      "PM25": 7.599999905,
+      "PM10": 10.87509632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:20:49",
+      "id": 9318
+    },
+    {
+      "Temp": 43.09999847,
+      "Humid": 37,
+      "HeatIndex": 54.54000092,
+      "PM25": 8,
+      "PM10": 11.06259632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:20:59",
+      "id": 9319
+    },
+    {
+      "Temp": 41.70000076,
+      "Humid": 36,
+      "HeatIndex": 50.15000153,
+      "PM25": 7.599999905,
+      "PM10": 10.18759632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:21:12",
+      "id": 9320
+    },
+    {
+      "Temp": 40.90000153,
+      "Humid": 38,
+      "HeatIndex": 49.36999893,
+      "PM25": 7.400000095,
+      "PM10": 9.875096321,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:21:23",
+      "id": 9321
+    },
+    {
+      "Temp": 39.5,
+      "Humid": 40,
+      "HeatIndex": 47,
+      "PM25": 7.400000095,
+      "PM10": 10.06259632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:21:33",
+      "id": 9322
+    },
+    {
+      "Temp": 38.79999924,
+      "Humid": 42,
+      "HeatIndex": 46.33000183,
+      "PM25": 7.400000095,
+      "PM10": 11.87509632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:21:46",
+      "id": 9323
+    },
+    {
+      "Temp": 37.70000076,
+      "Humid": 44,
+      "HeatIndex": 44.59999847,
+      "PM25": 7.300000191,
+      "PM10": 12.00009632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:21:56",
+      "id": 9324
+    },
+    {
+      "Temp": 36.79999924,
+      "Humid": 46,
+      "HeatIndex": 43.33000183,
+      "PM25": 7.400000095,
+      "PM10": 11.06259632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:22:06",
+      "id": 9325
+    },
+    {
+      "Temp": 36,
+      "Humid": 50,
+      "HeatIndex": 43.13999939,
+      "PM25": 7.599999905,
+      "PM10": 10.87509632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:22:16",
+      "id": 9326
+    },
+    {
+      "Temp": 35.40000153,
+      "Humid": 50,
+      "HeatIndex": 41.63999939,
+      "PM25": 7.5,
+      "PM10": 11.37509632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:22:30",
+      "id": 9327
+    },
+    {
+      "Temp": 34.40000153,
+      "Humid": 52,
+      "HeatIndex": 40.02000046,
+      "PM25": 7.400000095,
+      "PM10": 11.75009632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:22:40",
+      "id": 9328
+    },
+    {
+      "Temp": 34.20000076,
+      "Humid": 54,
+      "HeatIndex": 40.29000092,
+      "PM25": 7.400000095,
+      "PM10": 11.25009632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:22:50",
+      "id": 9329
+    },
+    {
+      "Temp": 33.59999847,
+      "Humid": 56,
+      "HeatIndex": 39.56999969,
+      "PM25": 7.400000095,
+      "PM10": 10.5,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:23:03",
+      "id": 9330
+    },
+    {
+      "Temp": 33.09999847,
+      "Humid": 59,
+      "HeatIndex": 39.40999985,
+      "PM25": 7,
+      "PM10": 10.30000019,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:23:13",
+      "id": 9331
+    },
+    {
+      "Temp": 32.59999847,
+      "Humid": 59,
+      "HeatIndex": 38.18000031,
+      "PM25": 6.900000095,
+      "PM10": 11.30000019,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:23:23",
+      "id": 9332
+    },
+    {
+      "Temp": 32,
+      "Humid": 65,
+      "HeatIndex": 38.65999985,
+      "PM25": 7.300000191,
+      "PM10": 13.10000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:23:54",
+      "id": 9333
+    },
+    {
+      "Temp": 31.60000038,
+      "Humid": 67,
+      "HeatIndex": 38.25999832,
+      "PM25": 7.400000095,
+      "PM10": 12.10000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:24:07",
+      "id": 9334
+    },
+    {
+      "Temp": 30.89999962,
+      "Humid": 66,
+      "HeatIndex": 36.18999863,
+      "PM25": 7.400000095,
+      "PM10": 10.69999981,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:24:17",
+      "id": 9335
+    },
+    {
+      "Temp": 31.10000038,
+      "Humid": 68,
+      "HeatIndex": 37.25999832,
+      "PM25": 7.199999809,
+      "PM10": 9.5,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:24:27",
+      "id": 9336
+    },
+    {
+      "Temp": 31,
+      "Humid": 69,
+      "HeatIndex": 37.29999924,
+      "PM25": 7.099999905,
+      "PM10": 9.5,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:24:37",
+      "id": 9337
+    },
+    {
+      "Temp": 30.10000038,
+      "Humid": 69,
+      "HeatIndex": 35.04000092,
+      "PM25": 6.900000095,
+      "PM10": 9.699999809,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:24:50",
+      "id": 9338
+    },
+    {
+      "Temp": 30.5,
+      "Humid": 72,
+      "HeatIndex": 36.84000015,
+      "PM25": 6.800000191,
+      "PM10": 10,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:25:01",
+      "id": 9339
+    },
+    {
+      "Temp": 30.20000076,
+      "Humid": 75,
+      "HeatIndex": 36.84999847,
+      "PM25": 7.199999809,
+      "PM10": 10.80000019,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:25:11",
+      "id": 9340
+    },
+    {
+      "Temp": 29.79999924,
+      "Humid": 75,
+      "HeatIndex": 35.75999832,
+      "PM25": 7.5,
+      "PM10": 12.80000019,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:25:24",
+      "id": 9341
+    },
+    {
+      "Temp": 29.70000076,
+      "Humid": 74,
+      "HeatIndex": 35.25,
+      "PM25": 7.699999809,
+      "PM10": 12.39999962,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:25:34",
+      "id": 9342
+    },
+    {
+      "Temp": 29.60000038,
+      "Humid": 75,
+      "HeatIndex": 35.22999954,
+      "PM25": 7.300000191,
+      "PM10": 12.19999981,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:25:44",
+      "id": 9343
+    },
+    {
+      "Temp": 29.20000076,
+      "Humid": 76,
+      "HeatIndex": 34.40999985,
+      "PM25": 7.199999809,
+      "PM10": 10.80000019,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:25:57",
+      "id": 9344
+    },
+    {
+      "Temp": 29.39999962,
+      "Humid": 76,
+      "HeatIndex": 34.93000031,
+      "PM25": 7.599999905,
+      "PM10": 10.89999962,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:26:08",
+      "id": 9345
+    },
+    {
+      "Temp": 29.20000076,
+      "Humid": 77,
+      "HeatIndex": 34.63000107,
+      "PM25": 7.199999809,
+      "PM10": 10.5,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:26:18",
+      "id": 9346
+    },
+    {
+      "Temp": 29,
+      "Humid": 78,
+      "HeatIndex": 34.31000137,
+      "PM25": 6.699999809,
+      "PM10": 10.89999962,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:26:28",
+      "id": 9347
+    },
+    {
+      "Temp": 28.89999962,
+      "Humid": 77,
+      "HeatIndex": 33.84999847,
+      "PM25": 6.5,
+      "PM10": 10.60000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:26:41",
+      "id": 9348
+    },
+    {
+      "Temp": 28.39999962,
+      "Humid": 85,
+      "HeatIndex": 34.04999924,
+      "PM25": 6.699999809,
+      "PM10": 10.39999962,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:28:25",
+      "id": 9349
+    },
+    {
+      "Temp": 28.20000076,
+      "Humid": 86,
+      "HeatIndex": 33.68999863,
+      "PM25": 6.699999809,
+      "PM10": 11.10000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:28:32",
+      "id": 9350
+    },
+    {
+      "Temp": 28.10000038,
+      "Humid": 85,
+      "HeatIndex": 33.18000031,
+      "PM25": 7.099999905,
+      "PM10": 11.89999962,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:28:42",
+      "id": 9351
+    },
+    {
+      "Temp": 28,
+      "Humid": 86,
+      "HeatIndex": 33.11000061,
+      "PM25": 6.900000095,
+      "PM10": 12.30000019,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:28:55",
+      "id": 9352
+    },
+    {
+      "Temp": 29.89999962,
+      "Humid": 79,
+      "HeatIndex": 37.09000015,
+      "PM25": 6.400000095,
+      "PM10": 9.899999619,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:29:05",
+      "id": 9353
+    },
+    {
+      "Temp": 35.90000153,
+      "Humid": 54,
+      "HeatIndex": 44.74000168,
+      "PM25": 6.099999905,
+      "PM10": 9.250096321,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:29:28",
+      "id": 9354
+    },
+    {
+      "Temp": 35.59999847,
+      "Humid": 53,
+      "HeatIndex": 43.45000076,
+      "PM25": 6.800000191,
+      "PM10": 10.56259632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:29:50",
+      "id": 9355
+    },
+    {
+      "Temp": 34.5,
+      "Humid": 53,
+      "HeatIndex": 40.63999939,
+      "PM25": 6.800000191,
+      "PM10": 11.25009632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:30:00",
+      "id": 9356
+    },
+    {
+      "Temp": 34.40000153,
+      "Humid": 55,
+      "HeatIndex": 41.18000031,
+      "PM25": 6.599999905,
+      "PM10": 10.87509632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:30:10",
+      "id": 9357
+    },
+    {
+      "Temp": 33.70000076,
+      "Humid": 57,
+      "HeatIndex": 40.18999863,
+      "PM25": 6.800000191,
+      "PM10": 11.00009632,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:30:23",
+      "id": 9358
+    },
+    {
+      "Temp": 33.59999847,
+      "Humid": 58,
+      "HeatIndex": 40.31000137,
+      "PM25": 6.599999905,
+      "PM10": 9.000096321,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:30:34",
+      "id": 9359
+    },
+    {
+      "Temp": 33.09999847,
+      "Humid": 61,
+      "HeatIndex": 40.13999939,
+      "PM25": 6.800000191,
+      "PM10": 9.500096321,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:30:44",
+      "id": 9360
+    },
+    {
+      "Temp": 32.90000153,
+      "Humid": 61,
+      "HeatIndex": 39.61999893,
+      "PM25": 6.599999905,
+      "PM10": 9.600000381,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:30:57",
+      "id": 9361
+    },
+    {
+      "Temp": 32.20000076,
+      "Humid": 62,
+      "HeatIndex": 38.18000031,
+      "PM25": 6.099999905,
+      "PM10": 10.5,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:31:07",
+      "id": 9362
+    },
+    {
+      "Temp": 31.79999924,
+      "Humid": 64,
+      "HeatIndex": 37.81999969,
+      "PM25": 6.400000095,
+      "PM10": 12,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:31:17",
+      "id": 9363
+    },
+    {
+      "Temp": 31.60000038,
+      "Humid": 67,
+      "HeatIndex": 38.25999832,
+      "PM25": 6.599999905,
+      "PM10": 12.19999981,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:31:30",
+      "id": 9364
+    },
+    {
+      "Temp": 31,
+      "Humid": 69,
+      "HeatIndex": 37.29999924,
+      "PM25": 6.800000191,
+      "PM10": 11.80000019,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:31:41",
+      "id": 9365
+    },
+    {
+      "Temp": 30.10000038,
+      "Humid": 70,
+      "HeatIndex": 35.27999878,
+      "PM25": 6.5,
+      "PM10": 9.899999619,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:31:51",
+      "id": 9366
+    },
+    {
+      "Temp": 29.89999962,
+      "Humid": 72,
+      "HeatIndex": 35.27999878,
+      "PM25": 6.400000095,
+      "PM10": 10.60000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:32:01",
+      "id": 9367
+    },
+    {
+      "Temp": 29.89999962,
+      "Humid": 72,
+      "HeatIndex": 35.27999878,
+      "PM25": 6.199999809,
+      "PM10": 10.10000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:32:15",
+      "id": 9368
+    },
+    {
+      "Temp": 29.20000076,
+      "Humid": 73,
+      "HeatIndex": 33.77000046,
+      "PM25": 6.099999905,
+      "PM10": 10,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:32:25",
+      "id": 9369
+    },
+    {
+      "Temp": 29.29999924,
+      "Humid": 76,
+      "HeatIndex": 34.66999817,
+      "PM25": 6.099999905,
+      "PM10": 9,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:32:35",
+      "id": 9370
+    },
+    {
+      "Temp": 28.20000076,
+      "Humid": 77,
+      "HeatIndex": 32.11999893,
+      "PM25": 6.199999809,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:32:42",
+      "id": 9371
+    },
+    {
+      "Temp": 28.70000076,
+      "Humid": 78,
+      "HeatIndex": 33.52999878,
+      "PM25": 6.400000095,
+      "PM10": 9.399999619,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:32:52",
+      "id": 9372
+    },
+    {
+      "Temp": 28.20000076,
+      "Humid": 79,
+      "HeatIndex": 32.43999863,
+      "PM25": 6.699999809,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:32:59",
+      "id": 9373
+    },
+    {
+      "Temp": 27.29999924,
+      "Humid": 78,
+      "HeatIndex": 30.20000076,
+      "PM25": 6.599999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:03",
+      "id": 9374
+    },
+    {
+      "Temp": 28.20000076,
+      "Humid": 80,
+      "HeatIndex": 32.59999847,
+      "PM25": 6.400000095,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:10",
+      "id": 9375
+    },
+    {
+      "Temp": 27.10000038,
+      "Humid": 80,
+      "HeatIndex": 29.95999908,
+      "PM25": 6.400000095,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:17",
+      "id": 9376
+    },
+    {
+      "Temp": 26.60000038,
+      "Humid": 80,
+      "HeatIndex": 28.87999916,
+      "PM25": 6.400000095,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:22",
+      "id": 9377
+    },
+    {
+      "Temp": 27.20000076,
+      "Humid": 82,
+      "HeatIndex": 30.39999962,
+      "PM25": 6.5,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:29",
+      "id": 9378
+    },
+    {
+      "Temp": 26.29999924,
+      "Humid": 82,
+      "HeatIndex": 28.37000084,
+      "PM25": 6.300000191,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:36",
+      "id": 9379
+    },
+    {
+      "Temp": 27.60000038,
+      "Humid": 83,
+      "HeatIndex": 31.52000046,
+      "PM25": 6.599999905,
+      "PM10": 10.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:40",
+      "id": 9380
+    },
+    {
+      "Temp": 26.29999924,
+      "Humid": 83,
+      "HeatIndex": 28.42000008,
+      "PM25": 6.300000191,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:48",
+      "id": 9381
+    },
+    {
+      "Temp": 26.20000076,
+      "Humid": 82,
+      "HeatIndex": 28.14999962,
+      "PM25": 6.300000191,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:55",
+      "id": 9382
+    },
+    {
+      "Temp": 26,
+      "Humid": 82,
+      "HeatIndex": 27.73999977,
+      "PM25": 6.199999809,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:33:59",
+      "id": 9383
+    },
+    {
+      "Temp": 26.20000076,
+      "Humid": 83,
+      "HeatIndex": 28.20000076,
+      "PM25": 6.400000095,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:06",
+      "id": 9384
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 82,
+      "HeatIndex": 25.92000008,
+      "PM25": 6.300000191,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:10",
+      "id": 9385
+    },
+    {
+      "Temp": 25.70000076,
+      "Humid": 84,
+      "HeatIndex": 27.18000031,
+      "PM25": 6.400000095,
+      "PM10": 9.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:17",
+      "id": 9386
+    },
+    {
+      "Temp": 25,
+      "Humid": 84,
+      "HeatIndex": 25.75,
+      "PM25": 6.5,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:24",
+      "id": 9387
+    },
+    {
+      "Temp": 25,
+      "Humid": 85,
+      "HeatIndex": 25.77000046,
+      "PM25": 6.5,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:29",
+      "id": 9388
+    },
+    {
+      "Temp": 25.70000076,
+      "Humid": 86,
+      "HeatIndex": 27.21999931,
+      "PM25": 6.5,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:36",
+      "id": 9389
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 86,
+      "HeatIndex": 25.69000053,
+      "PM25": 6.300000191,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:43",
+      "id": 9390
+    },
+    {
+      "Temp": 26.39999962,
+      "Humid": 86,
+      "HeatIndex": 28.82999992,
+      "PM25": 6.300000191,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:47",
+      "id": 9391
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 85,
+      "HeatIndex": 25.98999977,
+      "PM25": 6.300000191,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:55",
+      "id": 9392
+    },
+    {
+      "Temp": 25.70000076,
+      "Humid": 86,
+      "HeatIndex": 27.21999931,
+      "PM25": 6.300000191,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:34:59",
+      "id": 9393
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 86,
+      "HeatIndex": 25.36000061,
+      "PM25": 6.199999809,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:06",
+      "id": 9394
+    },
+    {
+      "Temp": 26.39999962,
+      "Humid": 87,
+      "HeatIndex": 28.88999939,
+      "PM25": 6.300000191,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:13",
+      "id": 9395
+    },
+    {
+      "Temp": 25.39999962,
+      "Humid": 87,
+      "HeatIndex": 26.56999969,
+      "PM25": 6.300000191,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:17",
+      "id": 9396
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 87,
+      "HeatIndex": 25.61000061,
+      "PM25": 6.199999809,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:24",
+      "id": 9397
+    },
+    {
+      "Temp": 26,
+      "Humid": 89,
+      "HeatIndex": 28,
+      "PM25": 6.099999905,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:31",
+      "id": 9398
+    },
+    {
+      "Temp": 26.10000038,
+      "Humid": 89,
+      "HeatIndex": 28.25,
+      "PM25": 6.099999905,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:35",
+      "id": 9399
+    },
+    {
+      "Temp": 25.60000038,
+      "Humid": 87,
+      "HeatIndex": 27.01000023,
+      "PM25": 6,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:43",
+      "id": 9400
+    },
+    {
+      "Temp": 25.10000038,
+      "Humid": 87,
+      "HeatIndex": 25.94000053,
+      "PM25": 6,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:50",
+      "id": 9401
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 87,
+      "HeatIndex": 24.95000076,
+      "PM25": 5.900000095,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:35:54",
+      "id": 9402
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 88,
+      "HeatIndex": 25.29999924,
+      "PM25": 6.199999809,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:01",
+      "id": 9403
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 88,
+      "HeatIndex": 24.53000069,
+      "PM25": 6.099999905,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:08",
+      "id": 9404
+    },
+    {
+      "Temp": 25.20000076,
+      "Humid": 89,
+      "HeatIndex": 26.10000038,
+      "PM25": 6.099999905,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:12",
+      "id": 9405
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 89,
+      "HeatIndex": 24.88999939,
+      "PM25": 6.199999809,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:19",
+      "id": 9406
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 89,
+      "HeatIndex": 24.45000076,
+      "PM25": 6.300000191,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:23",
+      "id": 9407
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 89,
+      "HeatIndex": 25.44000053,
+      "PM25": 6.199999809,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:30",
+      "id": 9408
+    },
+    {
+      "Temp": 25.39999962,
+      "Humid": 89,
+      "HeatIndex": 26.56999969,
+      "PM25": 6.300000191,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:37",
+      "id": 9409
+    },
+    {
+      "Temp": 24,
+      "Humid": 89,
+      "HeatIndex": 24.78000069,
+      "PM25": 6.5,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:42",
+      "id": 9410
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 89,
+      "HeatIndex": 25.11000061,
+      "PM25": 6.5,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:49",
+      "id": 9411
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 90,
+      "HeatIndex": 23.93000031,
+      "PM25": 6.300000191,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:36:56",
+      "id": 9412
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 90,
+      "HeatIndex": 25.36000061,
+      "PM25": 6.400000095,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:00",
+      "id": 9413
+    },
+    {
+      "Temp": 25.10000038,
+      "Humid": 90,
+      "HeatIndex": 26.02000046,
+      "PM25": 6.400000095,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:08",
+      "id": 9414
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 90,
+      "HeatIndex": 24.14999962,
+      "PM25": 6.099999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:12",
+      "id": 9415
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 90,
+      "HeatIndex": 24.04000092,
+      "PM25": 5.900000095,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:19",
+      "id": 9416
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 90,
+      "HeatIndex": 25.36000061,
+      "PM25": 6.099999905,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:26",
+      "id": 9417
+    },
+    {
+      "Temp": 25.10000038,
+      "Humid": 90,
+      "HeatIndex": 26.02000046,
+      "PM25": 5.900000095,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:30",
+      "id": 9418
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 90,
+      "HeatIndex": 24.26000023,
+      "PM25": 6.099999905,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:37",
+      "id": 9419
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 90,
+      "HeatIndex": 25.25,
+      "PM25": 6.099999905,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:44",
+      "id": 9420
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 91,
+      "HeatIndex": 24.28000069,
+      "PM25": 6.400000095,
+      "PM10": 9.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:49",
+      "id": 9421
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 91,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.300000191,
+      "PM10": 10.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:37:56",
+      "id": 9422
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 91,
+      "HeatIndex": 25.60000038,
+      "PM25": 620.5999756,
+      "PM10": 1096.012329,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:38:19",
+      "id": 9423
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 93,
+      "HeatIndex": 25.54000092,
+      "PM25": 919.9000244,
+      "PM10": 1528.012329,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:38:29",
+      "id": 9424
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 93,
+      "HeatIndex": 24.54999924,
+      "PM25": 983,
+      "PM10": 1480.012329,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:38:39",
+      "id": 9425
+    },
+    {
+      "Temp": 24,
+      "Humid": 94,
+      "HeatIndex": 24.90999985,
+      "PM25": 999.9000244,
+      "PM10": 1632.012329,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:38:52",
+      "id": 9426
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 94,
+      "HeatIndex": 24.79999924,
+      "PM25": 888.0999756,
+      "PM10": 1400.012329,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:39:06",
+      "id": 9427
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 94,
+      "HeatIndex": 24.69000053,
+      "PM25": 537,
+      "PM10": 784.0061646,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:39:13",
+      "id": 9428
+    },
+    {
+      "Temp": 23,
+      "Humid": 94,
+      "HeatIndex": 23.80999947,
+      "PM25": 211.1999969,
+      "PM10": 236.0015411,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:39:26",
+      "id": 9429
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 94,
+      "HeatIndex": 24.57999992,
+      "PM25": 154.1000061,
+      "PM10": 173.0015411,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:39:36",
+      "id": 9430
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 111,
+      "PM10": 124.5007706,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:39:46",
+      "id": 9431
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 94.09999847,
+      "PM10": 105.5007706,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:39:56",
+      "id": 9432
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 77,
+      "PM10": 86.50077057,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:40:10",
+      "id": 9433
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 57.5,
+      "PM10": 66.50077057,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:40:20",
+      "id": 9434
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 39.09999847,
+      "PM10": 47.25038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:40:30",
+      "id": 9435
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 30.79999924,
+      "PM10": 37.25038528,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:40:43",
+      "id": 9436
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 25.79999924,
+      "PM10": 31.00019264,
+      "Status": "Uncomfortable",
+      "timestamp": "23-12-2023 19:40:53",
+      "id": 9437
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 20.70000076,
+      "PM10": 25.60000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:41:03",
+      "id": 9438
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 17.5,
+      "PM10": 22.29999924,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:41:17",
+      "id": 9439
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 14.60000038,
+      "PM10": 20.10000038,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:41:27",
+      "id": 9440
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 13.69999981,
+      "PM10": 19.89999962,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:41:37",
+      "id": 9441
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 13.10000038,
+      "PM10": 17.70000076,
+      "Status": "Warning",
+      "timestamp": "23-12-2023 19:41:47",
+      "id": 9442
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 11.80000019,
+      "PM10": 16.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:41:54",
+      "id": 9443
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 11.10000038,
+      "PM10": 15.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:01",
+      "id": 9444
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 10.5,
+      "PM10": 14.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:05",
+      "id": 9445
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 10,
+      "PM10": 14.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:13",
+      "id": 9446
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 9.699999809,
+      "PM10": 13.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:20",
+      "id": 9447
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 9.300000191,
+      "PM10": 13.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:24",
+      "id": 9448
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 9.399999619,
+      "PM10": 12.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:31",
+      "id": 9449
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 9.5,
+      "PM10": 13.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:35",
+      "id": 9450
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 9,
+      "PM10": 13,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:42",
+      "id": 9451
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 8.800000191,
+      "PM10": 12.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:50",
+      "id": 9452
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 8.699999809,
+      "PM10": 12.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:42:54",
+      "id": 9453
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 8.300000191,
+      "PM10": 11.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:01",
+      "id": 9454
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 8.300000191,
+      "PM10": 12,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:08",
+      "id": 9455
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 8.300000191,
+      "PM10": 11.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:12",
+      "id": 9456
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 8.5,
+      "PM10": 11.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:19",
+      "id": 9457
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 8.399999619,
+      "PM10": 11.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:28",
+      "id": 9458
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 8.600000381,
+      "PM10": 12.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:32",
+      "id": 9459
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 8.300000191,
+      "PM10": 12.30000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:39",
+      "id": 9460
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 8.600000381,
+      "PM10": 13,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:43",
+      "id": 9461
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 8.399999619,
+      "PM10": 12.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:50",
+      "id": 9462
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 8.300000191,
+      "PM10": 13.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:43:58",
+      "id": 9463
+    },
+    {
+      "Temp": 24.79999924,
+      "Humid": 95,
+      "HeatIndex": 25.81999969,
+      "PM25": 7.900000095,
+      "PM10": 12,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:02",
+      "id": 9464
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 8,
+      "PM10": 11.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:09",
+      "id": 9465
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 7.599999905,
+      "PM10": 11,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:16",
+      "id": 9466
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 7.800000191,
+      "PM10": 11.30000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:20",
+      "id": 9467
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 7.800000191,
+      "PM10": 10.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:27",
+      "id": 9468
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 8,
+      "PM10": 11.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:31",
+      "id": 9469
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 8.100000381,
+      "PM10": 11.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:38",
+      "id": 9470
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 8.100000381,
+      "PM10": 12.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:45",
+      "id": 9471
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 7.800000191,
+      "PM10": 12.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:49",
+      "id": 9472
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 7.5,
+      "PM10": 11.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:44:56",
+      "id": 9473
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 7.400000095,
+      "PM10": 11.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:03",
+      "id": 9474
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 7.199999809,
+      "PM10": 10.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:08",
+      "id": 9475
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 7.400000095,
+      "PM10": 10.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:15",
+      "id": 9476
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 7.599999905,
+      "PM10": 10.89999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:22",
+      "id": 9477
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 7.699999809,
+      "PM10": 11.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:26",
+      "id": 9478
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 7.699999809,
+      "PM10": 11.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:34",
+      "id": 9479
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 7.699999809,
+      "PM10": 11,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:38",
+      "id": 9480
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 7.699999809,
+      "PM10": 11,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:45",
+      "id": 9481
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 7.699999809,
+      "PM10": 10.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:52",
+      "id": 9482
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 7.599999905,
+      "PM10": 10.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:45:56",
+      "id": 9483
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 7.699999809,
+      "PM10": 10.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:03",
+      "id": 9484
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 7.5,
+      "PM10": 10.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:10",
+      "id": 9485
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 7.300000191,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:15",
+      "id": 9486
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 7,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:22",
+      "id": 9487
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 7.199999809,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:26",
+      "id": 9488
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.800000191,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:33",
+      "id": 9489
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.800000191,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:41",
+      "id": 9490
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.699999809,
+      "PM10": 10,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:45",
+      "id": 9491
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.900000095,
+      "PM10": 10.69999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:52",
+      "id": 9492
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.699999809,
+      "PM10": 10.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:46:59",
+      "id": 9493
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.800000191,
+      "PM10": 11,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:03",
+      "id": 9494
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.900000095,
+      "PM10": 11.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:10",
+      "id": 9495
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 7.199999809,
+      "PM10": 12.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:18",
+      "id": 9496
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 7.300000191,
+      "PM10": 11.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:22",
+      "id": 9497
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 7.199999809,
+      "PM10": 11.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:29",
+      "id": 9498
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 7.300000191,
+      "PM10": 11.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:33",
+      "id": 9499
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 7.099999905,
+      "PM10": 11,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:40",
+      "id": 9500
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.900000095,
+      "PM10": 10,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:48",
+      "id": 9501
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.900000095,
+      "PM10": 9.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:52",
+      "id": 9502
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.900000095,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:47:59",
+      "id": 9503
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.699999809,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:06",
+      "id": 9504
+    },
+    {
+      "Temp": 24.89999962,
+      "Humid": 95,
+      "HeatIndex": 25.93000031,
+      "PM25": 6.599999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:10",
+      "id": 9505
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.5,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:17",
+      "id": 9506
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.5,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:25",
+      "id": 9507
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.5,
+      "PM10": 10.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:29",
+      "id": 9508
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.5,
+      "PM10": 10.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:36",
+      "id": 9509
+    },
+    {
+      "Temp": 25,
+      "Humid": 95,
+      "HeatIndex": 26.04000092,
+      "PM25": 6.599999905,
+      "PM10": 10.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:43",
+      "id": 9510
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.5,
+      "PM10": 10.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:47",
+      "id": 9511
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.400000095,
+      "PM10": 10.39999962,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:55",
+      "id": 9512
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.300000191,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:48:59",
+      "id": 9513
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:49:06",
+      "id": 9514
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 19:49:13",
+      "id": 9515
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 6.099999905,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:43:30",
+      "id": 9516
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.099999905,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:43:34",
+      "id": 9517
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.199999809,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:43:38",
+      "id": 9518
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 6.099999905,
+      "PM10": 10.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:43:43",
+      "id": 9519
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 6.099999905,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:43:47",
+      "id": 9520
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.400000095,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:43:51",
+      "id": 9521
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.599999905,
+      "PM10": 10.30000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:43:58",
+      "id": 9522
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 6.5,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:02",
+      "id": 9523
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.400000095,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:09",
+      "id": 9524
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.300000191,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:16",
+      "id": 9525
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.099999905,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:20",
+      "id": 9526
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:28",
+      "id": 9527
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.099999905,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:35",
+      "id": 9528
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.099999905,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:39",
+      "id": 9529
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.099999905,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:46",
+      "id": 9530
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.300000191,
+      "PM10": 10.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:53",
+      "id": 9531
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.300000191,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:44:57",
+      "id": 9532
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.099999905,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:04",
+      "id": 9533
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 6.099999905,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:11",
+      "id": 9534
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:17",
+      "id": 9535
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.800000191,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:22",
+      "id": 9536
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 5.800000191,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:29",
+      "id": 9537
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 5.699999809,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:33",
+      "id": 9538
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.599999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:40",
+      "id": 9539
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.599999905,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:48",
+      "id": 9540
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 5.599999905,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:52",
+      "id": 9541
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.5,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:45:59",
+      "id": 9542
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.5,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:06",
+      "id": 9543
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.699999809,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:10",
+      "id": 9544
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.900000095,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:17",
+      "id": 9545
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.900000095,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:24",
+      "id": 9546
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.199999809,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:29",
+      "id": 9547
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.400000095,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:36",
+      "id": 9548
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.300000191,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:40",
+      "id": 9549
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.300000191,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:47",
+      "id": 9550
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 6.5,
+      "PM10": 9.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:54",
+      "id": 9551
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.199999809,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:46:58",
+      "id": 9552
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 5.900000095,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:05",
+      "id": 9553
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 5.900000095,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:12",
+      "id": 9554
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.900000095,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:16",
+      "id": 9555
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 5.699999809,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:23",
+      "id": 9556
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.699999809,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:30",
+      "id": 9557
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 5.900000095,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:35",
+      "id": 9558
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 5.900000095,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:42",
+      "id": 9559
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:49",
+      "id": 9560
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:47:53",
+      "id": 9561
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 5.900000095,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:01",
+      "id": 9562
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.699999809,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:05",
+      "id": 9563
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.599999905,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:12",
+      "id": 9564
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 5.5,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:19",
+      "id": 9565
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.800000191,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:23",
+      "id": 9566
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:30",
+      "id": 9567
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.099999905,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:37",
+      "id": 9568
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 6,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:41",
+      "id": 9569
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 5.900000095,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:49",
+      "id": 9570
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 5.699999809,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:48:56",
+      "id": 9571
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5.699999809,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:00",
+      "id": 9572
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.699999809,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:07",
+      "id": 9573
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 5.900000095,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:14",
+      "id": 9574
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.099999905,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:18",
+      "id": 9575
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.099999905,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:25",
+      "id": 9576
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 6.099999905,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:29",
+      "id": 9577
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 6.199999809,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:36",
+      "id": 9578
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 6.099999905,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:44",
+      "id": 9579
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 5.900000095,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:48",
+      "id": 9580
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:49:56",
+      "id": 9581
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 5.900000095,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:00",
+      "id": 9582
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5.800000191,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:08",
+      "id": 9583
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 5.800000191,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:15",
+      "id": 9584
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 6,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:19",
+      "id": 9585
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.099999905,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:26",
+      "id": 9586
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 6.199999809,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:30",
+      "id": 9587
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.199999809,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:37",
+      "id": 9588
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 6.199999809,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:45",
+      "id": 9589
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 6,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:49",
+      "id": 9590
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.900000095,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:50:56",
+      "id": 9591
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 5.800000191,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:03",
+      "id": 9592
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:07",
+      "id": 9593
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.099999905,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:15",
+      "id": 9594
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 6.099999905,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:19",
+      "id": 9595
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.400000095,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:26",
+      "id": 9596
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 6.400000095,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:33",
+      "id": 9597
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.300000191,
+      "PM10": 9.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:37",
+      "id": 9598
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.300000191,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:45",
+      "id": 9599
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.400000095,
+      "PM10": 10.60000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:52",
+      "id": 9600
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 6.099999905,
+      "PM10": 10.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:51:56",
+      "id": 9601
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.199999809,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:03",
+      "id": 9602
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.199999809,
+      "PM10": 9.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:07",
+      "id": 9603
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.099999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:14",
+      "id": 9604
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.199999809,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:22",
+      "id": 9605
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.199999809,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:26",
+      "id": 9606
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.400000095,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:33",
+      "id": 9607
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.300000191,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:40",
+      "id": 9608
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.300000191,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:44",
+      "id": 9609
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.099999905,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:51",
+      "id": 9610
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.099999905,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:52:59",
+      "id": 9611
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5.900000095,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:03",
+      "id": 9612
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 5.900000095,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:10",
+      "id": 9613
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.900000095,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:14",
+      "id": 9614
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.800000191,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:21",
+      "id": 9615
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 5.900000095,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:29",
+      "id": 9616
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5.900000095,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:33",
+      "id": 9617
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 5.900000095,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:40",
+      "id": 9618
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5.900000095,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:47",
+      "id": 9619
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.199999809,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:51",
+      "id": 9620
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:53:58",
+      "id": 9621
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:03",
+      "id": 9622
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6.099999905,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:10",
+      "id": 9623
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:17",
+      "id": 9624
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:21",
+      "id": 9625
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.099999905,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:28",
+      "id": 9626
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.099999905,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:36",
+      "id": 9627
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.099999905,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:40",
+      "id": 9628
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.199999809,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:47",
+      "id": 9629
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.199999809,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:54",
+      "id": 9630
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.099999905,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:54:58",
+      "id": 9631
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.199999809,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:05",
+      "id": 9632
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 6.099999905,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:10",
+      "id": 9633
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:17",
+      "id": 9634
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.900000095,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:24",
+      "id": 9635
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.699999809,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:28",
+      "id": 9636
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.900000095,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:35",
+      "id": 9637
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 6.099999905,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:43",
+      "id": 9638
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:47",
+      "id": 9639
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 5.900000095,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:55:54",
+      "id": 9640
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 6,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:01",
+      "id": 9641
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 5.800000191,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:05",
+      "id": 9642
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 5.699999809,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:12",
+      "id": 9643
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 5.699999809,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:16",
+      "id": 9644
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 5.800000191,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:24",
+      "id": 9645
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.800000191,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:31",
+      "id": 9646
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6.099999905,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:35",
+      "id": 9647
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 6.099999905,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:44",
+      "id": 9648
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 6.300000191,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:48",
+      "id": 9649
+    },
+    {
+      "Temp": 24.60000038,
+      "Humid": 95,
+      "HeatIndex": 25.60000038,
+      "PM25": 6.199999809,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:55",
+      "id": 9650
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 6.099999905,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:56:59",
+      "id": 9651
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 5.900000095,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:06",
+      "id": 9652
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:13",
+      "id": 9653
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:18",
+      "id": 9654
+    },
+    {
+      "Temp": 24.20000076,
+      "Humid": 95,
+      "HeatIndex": 25.15999985,
+      "PM25": 6.199999809,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:25",
+      "id": 9655
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 6.199999809,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:32",
+      "id": 9656
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 6,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:36",
+      "id": 9657
+    },
+    {
+      "Temp": 24.5,
+      "Humid": 95,
+      "HeatIndex": 25.48999977,
+      "PM25": 5.800000191,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:43",
+      "id": 9658
+    },
+    {
+      "Temp": 24.70000076,
+      "Humid": 95,
+      "HeatIndex": 25.70999908,
+      "PM25": 5.800000191,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:48",
+      "id": 9659
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 5.599999905,
+      "PM10": 7.400000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:57:55",
+      "id": 9660
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 5.599999905,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:58:02",
+      "id": 9661
+    },
+    {
+      "Temp": 24.39999962,
+      "Humid": 95,
+      "HeatIndex": 25.37999916,
+      "PM25": 5.699999809,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:58:06",
+      "id": 9662
+    },
+    {
+      "Temp": 24.29999924,
+      "Humid": 95,
+      "HeatIndex": 25.27000046,
+      "PM25": 5.699999809,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:58:13",
+      "id": 9663
+    },
+    {
+      "Temp": 23.70000076,
+      "Humid": 95,
+      "HeatIndex": 24.61000061,
+      "PM25": 5.800000191,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:58:20",
+      "id": 9664
+    },
+    {
+      "Temp": 23.89999962,
+      "Humid": 95,
+      "HeatIndex": 24.82999992,
+      "PM25": 5.699999809,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:58:24",
+      "id": 9665
+    },
+    {
+      "Temp": 24,
+      "Humid": 95,
+      "HeatIndex": 24.94000053,
+      "PM25": 5.800000191,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:58:32",
+      "id": 9666
+    },
+    {
+      "Temp": 24.10000038,
+      "Humid": 95,
+      "HeatIndex": 25.04999924,
+      "PM25": 5.699999809,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:58:39",
+      "id": 9667
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 5.699999809,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 21:58:43",
+      "id": 9668
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 6,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:06",
+      "id": 9669
+    },
+    {
+      "Temp": 22.10000038,
+      "Humid": 95,
+      "HeatIndex": 22.85000038,
+      "PM25": 5.599999905,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:17",
+      "id": 9670
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.300000191,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:22",
+      "id": 9671
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5.300000191,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:26",
+      "id": 9672
+    },
+    {
+      "Temp": 22.10000038,
+      "Humid": 95,
+      "HeatIndex": 22.85000038,
+      "PM25": 5.300000191,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:30",
+      "id": 9673
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5.5,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:34",
+      "id": 9674
+    },
+    {
+      "Temp": 21.79999924,
+      "Humid": 94,
+      "HeatIndex": 22.48999977,
+      "PM25": 5.800000191,
+      "PM10": 9.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:38",
+      "id": 9675
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 5.900000095,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:45",
+      "id": 9676
+    },
+    {
+      "Temp": 22.10000038,
+      "Humid": 95,
+      "HeatIndex": 22.85000038,
+      "PM25": 5.900000095,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:53",
+      "id": 9677
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5.800000191,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:43:57",
+      "id": 9678
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.400000095,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:04",
+      "id": 9679
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.300000191,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:11",
+      "id": 9680
+    },
+    {
+      "Temp": 22.20000076,
+      "Humid": 95,
+      "HeatIndex": 22.95999908,
+      "PM25": 5.199999809,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:15",
+      "id": 9681
+    },
+    {
+      "Temp": 22.10000038,
+      "Humid": 95,
+      "HeatIndex": 22.85000038,
+      "PM25": 5.300000191,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:23",
+      "id": 9682
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5.400000095,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:30",
+      "id": 9683
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.5,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:34",
+      "id": 9684
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.599999905,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:41",
+      "id": 9685
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.699999809,
+      "PM10": 7.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:48",
+      "id": 9686
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.5,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:52",
+      "id": 9687
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.699999809,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:44:59",
+      "id": 9688
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.5,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:04",
+      "id": 9689
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.300000191,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:11",
+      "id": 9690
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.199999809,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:18",
+      "id": 9691
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.300000191,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:22",
+      "id": 9692
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.300000191,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:29",
+      "id": 9693
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.300000191,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:36",
+      "id": 9694
+    },
+    {
+      "Temp": 22.60000038,
+      "Humid": 95,
+      "HeatIndex": 23.39999962,
+      "PM25": 5.300000191,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:40",
+      "id": 9695
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.300000191,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:47",
+      "id": 9696
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.300000191,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:54",
+      "id": 9697
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.199999809,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:45:58",
+      "id": 9698
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.300000191,
+      "PM10": 7.400000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:06",
+      "id": 9699
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5.199999809,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:10",
+      "id": 9700
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.400000095,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:17",
+      "id": 9701
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.300000191,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:24",
+      "id": 9702
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 5.400000095,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:28",
+      "id": 9703
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.699999809,
+      "PM10": 10.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:36",
+      "id": 9704
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.699999809,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:43",
+      "id": 9705
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.699999809,
+      "PM10": 10.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:47",
+      "id": 9706
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.699999809,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:46:54",
+      "id": 9707
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.5,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:01",
+      "id": 9708
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 5.400000095,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:05",
+      "id": 9709
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.5,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:12",
+      "id": 9710
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.400000095,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:17",
+      "id": 9711
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.599999905,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:24",
+      "id": 9712
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.699999809,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:31",
+      "id": 9713
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.5,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:35",
+      "id": 9714
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.300000191,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:43",
+      "id": 9715
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.400000095,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:50",
+      "id": 9716
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.400000095,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:47:54",
+      "id": 9717
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.199999809,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:01",
+      "id": 9718
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.199999809,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:05",
+      "id": 9719
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.300000191,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:12",
+      "id": 9720
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.199999809,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:20",
+      "id": 9721
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5.300000191,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:24",
+      "id": 9722
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.300000191,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:31",
+      "id": 9723
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.400000095,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:38",
+      "id": 9724
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 5.5,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:42",
+      "id": 9725
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.300000191,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:50",
+      "id": 9726
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.300000191,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:48:57",
+      "id": 9727
+    },
+    {
+      "Temp": 22.60000038,
+      "Humid": 95,
+      "HeatIndex": 23.39999962,
+      "PM25": 5.400000095,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:01",
+      "id": 9728
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.5,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:08",
+      "id": 9729
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.400000095,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:12",
+      "id": 9730
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.400000095,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:19",
+      "id": 9731
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.300000191,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:26",
+      "id": 9732
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.199999809,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:31",
+      "id": 9733
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:38",
+      "id": 9734
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 5.099999905,
+      "PM10": 7.400000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:45",
+      "id": 9735
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 5.199999809,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:49",
+      "id": 9736
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.199999809,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:57",
+      "id": 9737
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.300000191,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:04",
+      "id": 9738
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.5,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:08",
+      "id": 9739
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 5.5,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:15",
+      "id": 9740
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.5,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:19",
+      "id": 9741
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.5,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:26",
+      "id": 9742
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.300000191,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:34",
+      "id": 9743
+    },
+    {
+      "Temp": 23.60000038,
+      "Humid": 95,
+      "HeatIndex": 24.5,
+      "PM25": 5,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:38",
+      "id": 9744
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.099999905,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:45",
+      "id": 9745
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:52",
+      "id": 9746
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.400000095,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:50:56",
+      "id": 9747
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.5,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:04",
+      "id": 9748
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.5,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:08",
+      "id": 9749
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.400000095,
+      "PM10": 10.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:15",
+      "id": 9750
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.400000095,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:22",
+      "id": 9751
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:26",
+      "id": 9752
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.099999905,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:33",
+      "id": 9753
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 5.199999809,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:41",
+      "id": 9754
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.199999809,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:45",
+      "id": 9755
+    },
+    {
+      "Temp": 22.10000038,
+      "Humid": 95,
+      "HeatIndex": 22.85000038,
+      "PM25": 5.400000095,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:52",
+      "id": 9756
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.5,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:51:59",
+      "id": 9757
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5.5,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:03",
+      "id": 9758
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.300000191,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:11",
+      "id": 9759
+    },
+    {
+      "Temp": 22.10000038,
+      "Humid": 95,
+      "HeatIndex": 22.85000038,
+      "PM25": 5.400000095,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:15",
+      "id": 9760
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.199999809,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:22",
+      "id": 9761
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 5.300000191,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:29",
+      "id": 9762
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.300000191,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:33",
+      "id": 9763
+    },
+    {
+      "Temp": 22,
+      "Humid": 95,
+      "HeatIndex": 22.73999977,
+      "PM25": 5.5,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:40",
+      "id": 9764
+    },
+    {
+      "Temp": 21.79999924,
+      "Humid": 94,
+      "HeatIndex": 22.48999977,
+      "PM25": 5.5,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:47",
+      "id": 9765
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.5,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:52",
+      "id": 9766
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.199999809,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:52:59",
+      "id": 9767
+    },
+    {
+      "Temp": 21.60000038,
+      "Humid": 94,
+      "HeatIndex": 22.27000046,
+      "PM25": 5.199999809,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:06",
+      "id": 9768
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.300000191,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:10",
+      "id": 9769
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.5,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:17",
+      "id": 9770
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 5.599999905,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:21",
+      "id": 9771
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.599999905,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:28",
+      "id": 9772
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.699999809,
+      "PM10": 8.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:35",
+      "id": 9773
+    },
+    {
+      "Temp": 22.60000038,
+      "Humid": 95,
+      "HeatIndex": 23.39999962,
+      "PM25": 5.5,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:39",
+      "id": 9774
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.199999809,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:46",
+      "id": 9775
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.199999809,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:53",
+      "id": 9776
+    },
+    {
+      "Temp": 21.89999962,
+      "Humid": 94,
+      "HeatIndex": 22.60000038,
+      "PM25": 5.199999809,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:53:58",
+      "id": 9777
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.199999809,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:05",
+      "id": 9778
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.300000191,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:12",
+      "id": 9779
+    },
+    {
+      "Temp": 21.79999924,
+      "Humid": 94,
+      "HeatIndex": 22.48999977,
+      "PM25": 5.300000191,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:16",
+      "id": 9780
+    },
+    {
+      "Temp": 22,
+      "Humid": 95,
+      "HeatIndex": 22.73999977,
+      "PM25": 5.199999809,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:24",
+      "id": 9781
+    },
+    {
+      "Temp": 21.70000076,
+      "Humid": 94,
+      "HeatIndex": 22.37999916,
+      "PM25": 5.199999809,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:28",
+      "id": 9782
+    },
+    {
+      "Temp": 22.20000076,
+      "Humid": 95,
+      "HeatIndex": 22.95999908,
+      "PM25": 5.099999905,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:35",
+      "id": 9783
+    },
+    {
+      "Temp": 22,
+      "Humid": 95,
+      "HeatIndex": 22.73999977,
+      "PM25": 4.900000095,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:42",
+      "id": 9784
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 4.900000095,
+      "PM10": 7.900000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:46",
+      "id": 9785
+    },
+    {
+      "Temp": 22.60000038,
+      "Humid": 95,
+      "HeatIndex": 23.39999962,
+      "PM25": 4.900000095,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:54:53",
+      "id": 9786
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 4.800000191,
+      "PM10": 7.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:00",
+      "id": 9787
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 4.800000191,
+      "PM10": 7.400000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:05",
+      "id": 9788
+    },
+    {
+      "Temp": 22.10000038,
+      "Humid": 95,
+      "HeatIndex": 22.85000038,
+      "PM25": 4.900000095,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:12",
+      "id": 9789
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:19",
+      "id": 9790
+    },
+    {
+      "Temp": 22.60000038,
+      "Humid": 95,
+      "HeatIndex": 23.39999962,
+      "PM25": 5,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:23",
+      "id": 9791
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.300000191,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:31",
+      "id": 9792
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.400000095,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:35",
+      "id": 9793
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.5,
+      "PM10": 8.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:42",
+      "id": 9794
+    },
+    {
+      "Temp": 21.60000038,
+      "Humid": 94,
+      "HeatIndex": 22.27000046,
+      "PM25": 5.5,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:49",
+      "id": 9795
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.599999905,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:55:53",
+      "id": 9796
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 5.400000095,
+      "PM10": 8.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:00",
+      "id": 9797
+    },
+    {
+      "Temp": 22.70000076,
+      "Humid": 95,
+      "HeatIndex": 23.51000023,
+      "PM25": 5.300000191,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:08",
+      "id": 9798
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.199999809,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:12",
+      "id": 9799
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5,
+      "PM10": 7.099999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:19",
+      "id": 9800
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.099999905,
+      "PM10": 7.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:23",
+      "id": 9801
+    },
+    {
+      "Temp": 23.5,
+      "Humid": 95,
+      "HeatIndex": 24.38999939,
+      "PM25": 5.199999809,
+      "PM10": 7.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:30",
+      "id": 9802
+    },
+    {
+      "Temp": 22.10000038,
+      "Humid": 95,
+      "HeatIndex": 22.85000038,
+      "PM25": 5.199999809,
+      "PM10": 7.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:38",
+      "id": 9803
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 5.300000191,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:42",
+      "id": 9804
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.400000095,
+      "PM10": 7.800000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:49",
+      "id": 9805
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.300000191,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:56:56",
+      "id": 9806
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.199999809,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:00",
+      "id": 9807
+    },
+    {
+      "Temp": 22.60000038,
+      "Humid": 95,
+      "HeatIndex": 23.39999962,
+      "PM25": 5.300000191,
+      "PM10": 8.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:07",
+      "id": 9808
+    },
+    {
+      "Temp": 21.89999962,
+      "Humid": 94,
+      "HeatIndex": 22.60000038,
+      "PM25": 5.300000191,
+      "PM10": 9,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:14",
+      "id": 9809
+    },
+    {
+      "Temp": 22,
+      "Humid": 95,
+      "HeatIndex": 22.73999977,
+      "PM25": 5.400000095,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:19",
+      "id": 9810
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.400000095,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:26",
+      "id": 9811
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.400000095,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:30",
+      "id": 9812
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.599999905,
+      "PM10": 9.600000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:37",
+      "id": 9813
+    },
+    {
+      "Temp": 22.20000076,
+      "Humid": 95,
+      "HeatIndex": 22.95999908,
+      "PM25": 5.699999809,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:45",
+      "id": 9814
+    },
+    {
+      "Temp": 22.79999924,
+      "Humid": 95,
+      "HeatIndex": 23.62000084,
+      "PM25": 5.5,
+      "PM10": 9.199999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:49",
+      "id": 9815
+    },
+    {
+      "Temp": 21.89999962,
+      "Humid": 94,
+      "HeatIndex": 22.60000038,
+      "PM25": 5.400000095,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:57:56",
+      "id": 9816
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.599999905,
+      "PM10": 10.19999981,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:03",
+      "id": 9817
+    },
+    {
+      "Temp": 22,
+      "Humid": 95,
+      "HeatIndex": 22.73999977,
+      "PM25": 5.599999905,
+      "PM10": 9.399999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:07",
+      "id": 9818
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.699999809,
+      "PM10": 9.899999619,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:14",
+      "id": 9819
+    },
+    {
+      "Temp": 23.79999924,
+      "Humid": 95,
+      "HeatIndex": 24.71999931,
+      "PM25": 5.400000095,
+      "PM10": 10.10000038,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:21",
+      "id": 9820
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.599999905,
+      "PM10": 10.80000019,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:26",
+      "id": 9821
+    },
+    {
+      "Temp": 22.20000076,
+      "Humid": 95,
+      "HeatIndex": 22.95999908,
+      "PM25": 5.599999905,
+      "PM10": 10,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:33",
+      "id": 9822
+    },
+    {
+      "Temp": 21.60000038,
+      "Humid": 94,
+      "HeatIndex": 22.27000046,
+      "PM25": 5.300000191,
+      "PM10": 9.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:37",
+      "id": 9823
+    },
+    {
+      "Temp": 21.89999962,
+      "Humid": 94,
+      "HeatIndex": 22.60000038,
+      "PM25": 5.199999809,
+      "PM10": 9.100000381,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:44",
+      "id": 9824
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5.5,
+      "PM10": 8.300000191,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:51",
+      "id": 9825
+    },
+    {
+      "Temp": 22.20000076,
+      "Humid": 95,
+      "HeatIndex": 22.95999908,
+      "PM25": 5.5,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:58:55",
+      "id": 9826
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 5.5,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:59:02",
+      "id": 9827
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5.400000095,
+      "PM10": 7.599999905,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:59:09",
+      "id": 9828
+    },
+    {
+      "Temp": 22.29999924,
+      "Humid": 95,
+      "HeatIndex": 23.06999969,
+      "PM25": 5.300000191,
+      "PM10": 7.400000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:59:13",
+      "id": 9829
+    },
+    {
+      "Temp": 23.20000076,
+      "Humid": 95,
+      "HeatIndex": 24.05999947,
+      "PM25": 5.199999809,
+      "PM10": 7.400000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:59:20",
+      "id": 9830
+    },
+    {
+      "Temp": 22.5,
+      "Humid": 95,
+      "HeatIndex": 23.29000092,
+      "PM25": 5.300000191,
+      "PM10": 7.400000095,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:59:28",
+      "id": 9831
+    },
+    {
+      "Temp": 23,
+      "Humid": 95,
+      "HeatIndex": 23.84000015,
+      "PM25": 5.199999809,
+      "PM10": 7.5,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:59:32",
+      "id": 9832
+    },
+    {
+      "Temp": 23.10000038,
+      "Humid": 95,
+      "HeatIndex": 23.95000076,
+      "PM25": 5.800000191,
+      "PM10": 8.899999619,
+      "Status": "Comfortable",
+      "timestamp": "24-12-2023 00:40:05",
+      "id": 9833
+    },
+    {
+      "Temp": 22.39999962,
+      "Humid": 95,
+      "HeatIndex": 23.18000031,
+      "PM25": 5.699999809,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "24-12-2023 00:40:09",
+      "id": 9834
+    },
+    {
+      "Temp": 23.39999962,
+      "Humid": 95,
+      "HeatIndex": 24.28000069,
+      "PM25": 5.599999905,
+      "PM10": 8,
+      "Status": "Comfortable",
+      "timestamp": "24-12-2023 00:40:13",
+      "id": 9835
+    },
+    {
+      "Temp": 22.89999962,
+      "Humid": 95,
+      "HeatIndex": 23.72999954,
+      "PM25": 5.599999905,
+      "PM10": 7.699999809,
+      "Status": "Comfortable",
+      "timestamp": "24-12-2023 00:40:17",
+      "id": 9836
+    },
+    {
+      "Temp": 21.89999962,
+      "Humid": 94,
+      "HeatIndex": 22.60000038,
+      "PM25": 5.800000191,
+      "PM10": 8.5,
+      "Status": "Comfortable",
+      "timestamp": "24-12-2023 00:40:21",
+      "id": 9837
+    },
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.800000191,
+      "PM10": 8.800000191,
+      "Status": "Comfortable",
+      "timestamp": "24-12-2023 00:40:25",
+      "id": 9838
     }
   ]
 }
