@@ -45,7 +45,7 @@
 //     // tone(BUZZER_PIN, 500);
 //     // delay(5000);
 //     // noTone(BUZZER_PIN);
-//   } else if (hic >= 33 || pm.pm25 >= 12) {
+//   } else if (hic >= 28 || pm.pm25 >= 12) {
 //     Status = "Warning";
 //     // Serial.println(Status);
 //     // tone(BUZZER_PIN, 1000);
