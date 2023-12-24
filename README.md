@@ -6,7 +6,6 @@
         <li>64113889 - ศุภณัฐ คุ้มรักษ์</li>
     </ul>
 <h2 align="center">หน้า Website การแสดงผล</h1>
-<p align="center">
-        <img src="static/images/webpage.png" width="300">
-    </p>
+        <img src="static/images/webpage.png">
+
  <h2 align="center">บทนำ</h1>
