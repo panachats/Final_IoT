@@ -40,4 +40,81 @@
         <li>Authorized User: ผู้ใช้งานระบบ</li>
         <li>Web Frontend : หน้าเว็บไซต์สำหรับแสดงค่าสถานะและสภาพแวดล้อม</li>
         <li>Web API Server : บริการ API สำหรับ Web Frontend ในการรับ-ส่งข้อมูล</li>
+        <li>Database : ฐานข้อมูลสำหรับเก็บข้อมูลสภาพแวดล้อมล</li>
+        <li>MQTT Broker : ตัวกลางสำหรับรับส่งข้อมูลสถานะระหว่าง Web API Server และ Microcontroller </li>
     </ul>
+<h2 align="center">โครงสร้างข้อมูล</h1>
+<p>ข้อมูลที่รับจากเซนเซอร์ต่าง ๆ จะถูกจัดเก็บในรูปแบบโครงสร้างของ Json ที่จะประกอบไปด้วยข้อมูลของ Temperature, Humidity, HeatIndex, PM2.5, PM10, Status, timestamp และ id ตามลำดับ ที่ถูกจัดเก็บใน Module ชื่อ ESP8266</p>
+
+```
+{
+  "ESP8266": [
+    {
+      "Temp": 23.29999924,
+      "Humid": 95,
+      "HeatIndex": 24.17000008,
+      "PM25": 5.400000095,
+      "PM10": 8.699999809,
+      "Status": "Comfortable",
+      "timestamp": "23-12-2023 23:49:19",
+      "id": 1
+    }
+}
+```
+<h2 align="center">โครงสร้างข้อมูล</h1>
+<table style="border: red solid 1px;">
+    <tr>
+        <th>Attribute Name</th>
+        <th>Description</th>
+        <th>Data Type</th>
+        <th>Example</th>
+    </tr>
+    <tr>
+        <td>id</td>
+        <td>id ของข้อมูลที่นำเข้า</td>
+        <td>Int</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Timestamp</td>
+        <td>เวลาที่นำเข้าข้อมูล</td>
+        <td>timestamp</td>
+        <td>12-12-2023 20:32:11</td>
+    </tr>
+    <tr>
+        <td>Temp</td>
+        <td>ค่าของอุณหภูมิ</td>
+        <td>float</td>
+        <td>24.02</td>
+    </tr>
+    <tr>
+        <td>Humid</td>
+        <td>ค่าของความชื้น</td>
+        <td>float</td>
+        <td>62.00</td>
+    </tr>
+    <tr>
+        <td>HeatIndex</td>
+        <td>ค่าของอุณหภูมิจากมนุษย์</td>
+        <td>float</td>
+        <td>24.06</td>
+    </tr>
+    <tr>
+        <td>PM2.5</td>
+        <td>ค่าของฝุ่นขนาดไม่เกิน 2.5 ไมครอน</td>
+        <td>float</td>
+        <td>12.80</td>
+    </tr>
+    <tr>
+        <td>PM10</td>
+        <td>ค่าของฝุ่นขนาดไม่เกิน 10 ไมครอน</td>
+        <td>float</td>
+        <td>14.39</td>
+    </tr>
+    <tr>
+        <td>Status</td>
+        <td>ค่าที่บ่งบอกถึงคุณภาพอากาศ ณ ปัจจุบัน</td>
+        <td>String</td>
+        <td>Comfortable</td>
+    </tr>
+</table>
