@@ -148,3 +148,36 @@
  <li>NTPClient.h: ใช้ในการปรับเทียบเวลากับเซิร์ฟเวอร์ NTP</li>
  <li>ESP8266HTTPClient.h: ใช้ในการส่งคำขอ HTTP ผ่านบอร์ด ESP8266</li>
  <li>ArduinoJson.h: ใช้ในการแยกวิเคราะห์และสร้างข้อมูลแบบ JSON</li></ol>
+ <h2 align="center">การทดสอบ</h1>
+<p>โดยภาพนี้จะเป็นห้องที่ใช้ในการทดลอง</p>
+  <p align="center">
+        <img src="static/images/1.jpg">
+    </p>
+    <h3>Test Case #1</h3>
+    <p>ทดสอบนำ JTM ไปไว้ในห้องที่ปิดหน้าต่างและมีการเปิดแอร์อยู่ที่ 25 องศา</p>
+  <p align="center">
+        <img src="static/images/2.jpg">
+    </p>
+    <p>มีการเปิดแอร์และตั้งค่าแอร์อยู่ที่ 25 องศาและมีการปิดหน้าต่าง</p>
+      <p align="center">
+        <img src="static/images/3.png">
+    </p>
+    <p>ภาพผลลัพธ์การแสดงผล Status Comfortable</p>
+          <p align="center">
+        <img src="static/images/4.png">
+    </p>
+    <p align="center">โดยในกรณีนี้จะมีการส่งแจ้งเตือนเป็นเสียงจาก sensor buzzer ที่จะมีเสียงเพื่อสื่อถึงการแจ้งเตือนควรเฝ้าระวังสภาพอากาศภายในห้อง</p>
+     <h3>Test Case #2</h3>
+    <p>ทดสอบนำ JTM ไปไว้ในห้องที่มีการปิดแอร์และเปิดหน้าต่างเพื่อให้มีอากาศถ่ายเท</p>
+  <p align="center">
+        <img src="static/images/5.jpg">
+    </p>
+    <p>มีการปิดแอร์และมีการเปิดหน้าต่าง</p>
+      <p align="center">
+        <img src="static/images/6.png">
+    </p>
+    <p>ภาพผลลัพธ์การแสดงผล Status Warning</p>
+          <p align="center">
+        <img src="static/images/7.png">
+    </p>
+    <p align="center">โดยในกรณีนี้จะมีการส่งแจ้งเตือนเป็นเสียงจาก sensor buzzer ที่จะมีเสียงเพื่อสื่อถึงการแจ้งเตือนควรเฝ้าระวังสภาพอากาศภายในห้อง</p>
