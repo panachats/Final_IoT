@@ -181,3 +181,17 @@
         <img src="static/images/8.jpg">
     </p>
     <p align="center">โดยในกรณีนี้จะมีการส่งแจ้งเตือนเป็นเสียงจาก sensor buzzer ที่จะมีเสียงเพื่อสื่อถึงการแจ้งเตือนควรเฝ้าระวังสภาพอากาศภายในห้อง</p>
+     <h3>Test Case #3</h3>
+    <p>ทดสอบนำ JTM ไปไว้ในห้องที่มีการปิดแอร์และปิดหน้าต่างเพื่อไม่ให้มีอากาศถ่ายเท</p>
+  <p align="center">
+        <img src="static/images/9.jpg">
+    </p>
+    <p align="center">มีการปิดแอร์และมีการเปิดหน้าต่าง</p>
+      <p align="center">
+        <img src="static/images/10.png">
+    </p>
+    <p align="center">ภาพผลลัพธ์การแสดงผล Status Uncomfortable</p>
+          <p align="center">
+        <img src="static/images/11.jpg">
+    </p>
+    <p align="center">โดยในกรณีนี้จะมีการส่งแจ้งเตือนเป็นเสียงจาก sensor buzzer ที่จะมีเสียงเพื่อสื่อถึงการแจ้งเตือนสภาพอากาศที่เป็นอันตรายภายในห้อง</p>
