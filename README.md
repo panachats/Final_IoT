@@ -158,11 +158,11 @@
   <p align="center">
         <img src="static/images/2.jpg">
     </p>
-    <p>มีการเปิดแอร์และตั้งค่าแอร์อยู่ที่ 25 องศาและมีการปิดหน้าต่าง</p>
+    <p align="center">มีการเปิดแอร์และตั้งค่าแอร์อยู่ที่ 25 องศาและมีการปิดหน้าต่าง</p>
       <p align="center">
         <img src="static/images/3.png">
     </p>
-    <p>ภาพผลลัพธ์การแสดงผล Status Comfortable</p>
+    <p align="center">ภาพผลลัพธ์การแสดงผล Status Comfortable</p>
           <p align="center">
         <img src="static/images/4.jpg">
     </p>
@@ -172,11 +172,11 @@
   <p align="center">
         <img src="static/images/6.jpg">
     </p>
-    <p>มีการปิดแอร์และมีการเปิดหน้าต่าง</p>
+    <p align="center">มีการปิดแอร์และมีการเปิดหน้าต่าง</p>
       <p align="center">
         <img src="static/images/7.png">
     </p>
-    <p>ภาพผลลัพธ์การแสดงผล Status Warning</p>
+    <p align="center">ภาพผลลัพธ์การแสดงผล Status Warning</p>
           <p align="center">
         <img src="static/images/8.jpg">
     </p>
