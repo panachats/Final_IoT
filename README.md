@@ -164,20 +164,20 @@
     </p>
     <p>ภาพผลลัพธ์การแสดงผล Status Comfortable</p>
           <p align="center">
-        <img src="static/images/4.png">
+        <img src="static/images/4.jpg">
     </p>
     <p align="center">โดยในกรณีนี้จะมีการส่งแจ้งเตือนเป็นเสียงจาก sensor buzzer ที่จะมีเสียงเพื่อสื่อถึงการแจ้งเตือนควรเฝ้าระวังสภาพอากาศภายในห้อง</p>
      <h3>Test Case #2</h3>
     <p>ทดสอบนำ JTM ไปไว้ในห้องที่มีการปิดแอร์และเปิดหน้าต่างเพื่อให้มีอากาศถ่ายเท</p>
   <p align="center">
-        <img src="static/images/5.jpg">
+        <img src="static/images/6.jpg">
     </p>
     <p>มีการปิดแอร์และมีการเปิดหน้าต่าง</p>
       <p align="center">
-        <img src="static/images/6.png">
+        <img src="static/images/7.png">
     </p>
     <p>ภาพผลลัพธ์การแสดงผล Status Warning</p>
           <p align="center">
-        <img src="static/images/7.png">
+        <img src="static/images/8.jpg">
     </p>
     <p align="center">โดยในกรณีนี้จะมีการส่งแจ้งเตือนเป็นเสียงจาก sensor buzzer ที่จะมีเสียงเพื่อสื่อถึงการแจ้งเตือนควรเฝ้าระวังสภาพอากาศภายในห้อง</p>
