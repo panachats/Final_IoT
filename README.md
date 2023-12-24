@@ -34,4 +34,10 @@
   <p align="center">
         <img src="static/images/ArchitectureSof.png">
     </p>
-<p align="center">Module สำหรับการใช้งานผ่าน Web Frontend โดยผู้ใช้จะต้องทำงานเข้าใช้งาน Website ก่อนจากนั้นระบบจะทำการดึงค่าจาก Web API Server มาแสดงผลผลบนหน้า Website โดยจะมีการอับเดตค่าสภานะและสภาพแวดล้อมทุกๆ 5 วินาที</p>
+<p>Module สำหรับการใช้งานผ่าน Web Frontend โดยผู้ใช้จะต้องทำงานเข้าใช้งาน Website ก่อนจากนั้นระบบจะทำการดึงค่าจาก Web API Server มาแสดงผลผลบนหน้า Website โดยจะมีการอับเดตค่าสภานะและสภาพแวดล้อมทุกๆ 5 วินาที</p>
+<p>ระบบจะส่งค่า Status จาก Website ไปประตูผ่าน MQTT Broker ไปยัง Microcontroller ซึ่งจะสั่งให้ Buzzer Sensor ทำงานเพื่อส่งเสียงบ่งบอกถึงระดับความอันตรายในสภาพแวดล้อมนั้น โดย Module นี้ประกอบด้วย 5 องค์ประกอบหลัก ได้แก่ </p>
+    <ul>
+        <li>Authorized User: ผู้ใช้งานระบบ</li>
+        <li>Web Frontend : หน้าเว็บไซต์สำหรับแสดงค่าสถานะและสภาพแวดล้อม</li>
+        <li>Web API Server : บริการ API สำหรับ Web Frontend ในการรับ-ส่งข้อมูล</li>
+    </ul>
