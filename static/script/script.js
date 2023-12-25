@@ -1,4 +1,4 @@
-const url = 'http://192.168.0.178:5000/nodemcu/last';
+const url = 'http://172.20.10.3:5000/nodemcu/last';
 const displayTemp = document.getElementById('display-Temp');
 const displayHumid = document.getElementById('display-Humid');
 const displayHeatIndex = document.getElementById('display-HeatIndex');

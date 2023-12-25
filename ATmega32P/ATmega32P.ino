@@ -38,7 +38,7 @@ void readAndSendData() {
 
   if (hic >= 40 || hic <= 18 || pm.pm25 >= 25) {
     Status = "Uncomfortable";
-  } else if (hic >= 28 || pm.pm25 >= 12) {
+  } else if (hic >= 30 || pm.pm25 >= 12) {
     Status = "Warning";
   } else {
     Status = "Comfortable";

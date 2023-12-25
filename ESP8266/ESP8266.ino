@@ -6,8 +6,8 @@
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Booklab";
-const char* password = "ccsadmin";
+const char* ssid = "_4most";
+const char* password = "55556666";
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org");
 WiFiClient espClient;
@@ -34,7 +34,7 @@ void reconnect() {
     } else {
       Serial.print("failed, rc=");
       Serial.print(client.state());
-      Serial.println(" try again in 5 seconds");
+      Serial.println("try again in 5 seconds");
       // Wait 5 seconds before retrying
       delay(5000);
     }
@@ -83,7 +83,7 @@ void setup() {
   Serial.println(WiFi.localIP());
   timeClient.begin();
   timeClient.setTimeOffset(25200);
-  client.setServer("192.168.0.178", 1883);
+  client.setServer("172.20.10.3", 1883);
   client.setCallback(callback);
 }
 
@@ -131,7 +131,7 @@ void loop() {
 
 
       HTTPClient http;
-      http.begin(espClient, "http://192.168.0.178:80/ESP8266");
+      http.begin(espClient, "http://172.20.10.3:80/ESP8266");
       http.addHeader("Content-Type", "application/json");
       int httpResponseCode = http.POST(jsonData);
 

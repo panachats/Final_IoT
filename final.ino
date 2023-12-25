@@ -100,8 +100,8 @@
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Booklab";
-const char* password = "ccsadmin";
+const char* ssid = "_4most";
+const char* password = "55556666";
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org");
 WiFiClient espClient;
@@ -182,7 +182,7 @@ void setup() {
   Serial.println(WiFi.localIP());
   timeClient.begin();
   timeClient.setTimeOffset(25200);
-  client.setServer("192.168.0.178", 1883);
+  client.setServer("10.1.1.113", 1883);
   client.setCallback(callback);
 }
 
@@ -235,7 +235,7 @@ void loop() {
 
 
       HTTPClient http;
-      http.begin(espClient, "http://192.168.0.178:80/ESP8266");
+      http.begin(espClient, "http://10.1.1.113:80/ESP8266");
       http.addHeader("Content-Type", "application/json");
       int httpResponseCode = http.POST(jsonData);
 

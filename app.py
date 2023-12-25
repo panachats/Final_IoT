@@ -3,7 +3,7 @@ import requests
 from paho.mqtt import client as mqtt_client
 
 
-broker = "192.168.0.178"
+broker = "172.20.10.3"
 port = 1883
 
 
@@ -23,7 +23,7 @@ def connect_mqtt():
 
 
 app = Flask(__name__)
-server_ip = "http://192.168.0.178:80"
+server_ip = "http://172.20.10.3:80"
 @app.route("/")
 def home():
     return render_template("index.html")
